@@ -51,7 +51,8 @@
 ### Tool
 
 -   Visual Studio Code
-
+-   Git / GitHub
+-   Slack
 
 ---
 
